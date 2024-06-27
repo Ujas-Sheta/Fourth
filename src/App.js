@@ -23,7 +23,7 @@ function App() {
           <div className='bd-highlight text-white bg-primary' id='box-1'>Flex item 3</div>
         </div>
       </div>
-      <div></div>
+      <div>hhhhhh</div>
       <div className='card-image'>
         <img src={Image1} alt="Image1"></img>
         <div className='card-blur'></div>
