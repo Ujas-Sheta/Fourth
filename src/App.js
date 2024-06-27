@@ -24,6 +24,7 @@ function App() {
         </div>
       </div>
       <div>hhhhhh</div>
+      <div>Hello world</div>
       <div className='card-image'>
         <img src={Image1} alt="Image1"></img>
         <div className='card-blur'></div>
